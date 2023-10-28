@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mle667nj7s6vyr5yllww5yjiocdlp78p1ohn24yf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/chiragpc_2004" target="blank"><img src="https://img.shields.io/twitter/follow/chiragpc_2004?logo=twitter&style=for-the-badge" alt="chiragpc_2004" /></a> </p>
 
-- 💬 Ask me about **Data Science and Machine Learning**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **chiragpc2004@gmail.com**
 
