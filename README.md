@@ -1,6 +1,6 @@
 <h1 align="center">Hello world👋🏼, I'm Chirag P C</h1>
 <h3 align="center">Sophomore in Data Science and Engineering at MIT Manipal.🎓📊</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mle667nj7s6vyr5yllww5yjiocdlp78p1ohn24yf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5IJ.gif">
 <p align="left"> <a href="https://twitter.com/chiragpc_2004" target="blank"><img src="https://img.shields.io/twitter/follow/chiragpc_2004?logo=twitter&style=for-the-badge" alt="chiragpc_2004" /></a> </p>
 
 - 💬 Ask me about **Data Science**
