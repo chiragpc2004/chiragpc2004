@@ -4,7 +4,6 @@
 
 - 🎓 Currently pursuing B.Tech in Data Science & Engineering  
 - 💡 Interested in **Machine Learning**, **Artificial Intelligence**, and solving real-world problems with data  
-- 📉 Occasionally break model assumptions. Frequently break my own code.  
 - 🧭 Structured mindset with just enough chaos to keep things interesting  
 
 ---
