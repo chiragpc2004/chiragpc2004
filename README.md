@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Chirag P C</h1>
-<h3 align="center">Aspiring Data Scientist | Engineering Student @ MIT Manipal | Curious Mind with a Compiler</h3>
+<h3 align="center">Aspiring Data Scientist | Engineering Student @ MIT Manipal</h3>
 
 
 - 🎓 Currently pursuing B.Tech in Data Science & Engineering  
