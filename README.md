@@ -2,7 +2,7 @@
 
 **SDET at [Jar](https://www.myjar.app) · Aspiring Product Manager · Data Science grad from MIT Manipal**
 
-I test payments for a living and build products on the side. At Jar I'm on the Platform Pod, testing UPI flows and automating backend APIs (AuthService, Autopay). Outside work I do product case studies end to end: research, PRD, a working prototype, and evals to check it.
+At Jar I'm on the Platform Pod, testing UPI flows and automating backend APIs (AuthService, Autopay). Outside work I do product case studies end to end: research, PRD, a working prototype, and evals to check it.
 
 📍 Bengaluru · 🌐 [Portfolio](https://chiragpc-portfolio.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/chiragpc2004)
 
